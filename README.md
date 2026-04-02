@@ -35,7 +35,7 @@ PDF → Text Extraction → Chunking → Embeddings → FAISS Vector Store
 ## ⚙️ Tech Stack
 
 * **LLM Framework:** LangChain
-* **Model:** OpenAI (GPT-4o-mini)
+* **Model:** OpenAI (GPT-5.4)
 * **Vector Store:** FAISS (in-memory)
 * **Embeddings:** OpenAI Embeddings
 * **PDF Processing:** PyMuPDF
